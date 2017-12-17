@@ -1,0 +1,7 @@
+A:\DaiktuInternetolaboras\Realtime\GijosLaboratorinis\GijosLaboratorinis\bin\Debug\GijosLaboratorinis.exe.config
+A:\DaiktuInternetolaboras\Realtime\GijosLaboratorinis\GijosLaboratorinis\bin\Debug\GijosLaboratorinis.exe
+A:\DaiktuInternetolaboras\Realtime\GijosLaboratorinis\GijosLaboratorinis\bin\Debug\GijosLaboratorinis.pdb
+A:\DaiktuInternetolaboras\Realtime\GijosLaboratorinis\GijosLaboratorinis\obj\Debug\GijosLaboratorinis.csprojResolveAssemblyReference.cache
+A:\DaiktuInternetolaboras\Realtime\GijosLaboratorinis\GijosLaboratorinis\obj\Debug\GijosLaboratorinis.csproj.CoreCompileInputs.cache
+A:\DaiktuInternetolaboras\Realtime\GijosLaboratorinis\GijosLaboratorinis\obj\Debug\GijosLaboratorinis.exe
+A:\DaiktuInternetolaboras\Realtime\GijosLaboratorinis\GijosLaboratorinis\obj\Debug\GijosLaboratorinis.pdb
